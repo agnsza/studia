@@ -6,3 +6,13 @@ e)wyświetlenie zawartości pliku 'plik.txt'-type
 f)przejście do katalogu nadrzędnego-cd ..
 g)przejście do katalogu 'lab4'- cd lab4
 h)zmianę nazwy pliku 'plik.txt' na 'inny_plik.txt'-rename
+
+podglądu wszystkich zatwierdzonych zmian-git log
+podglądu wprowadzonych w repozytorium zmian-git diff
+podglądu wprowadzonych zmian plików które są juz w przechowalni-git diff --staged
+podglądu zmian wprowadzonych w danym pliku-git status
+usuwania plików z repozytorium-git rm
+dodawanie plików do przechowalni-git add
+usuwanie plików z przechowalni-git reset head
+przenoszenia plików znajdujących się w przechowalni do innej gałęzi-git stash
+usuwania gałęzi-git branch -d
