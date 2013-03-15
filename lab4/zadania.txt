@@ -1,0 +1,8 @@
+a)wyświetlenie informacji o poleceniach (pomocy)-help
+b)wyświetlanie zawartości bieżącego katalogu-dir
+c)utworzenie katalogu o nazwie 'katalog'-mkdir
+d)utworzenia pliku o nazwie 'plik.txt'-touch
+e)wyświetlenie zawartości pliku 'plik.txt'-type
+f)przejście do katalogu nadrzędnego-cd ..
+g)przejście do katalogu 'lab4'- cd lab4
+h)zmianę nazwy pliku 'plik.txt' na 'inny_plik.txt'-rename
