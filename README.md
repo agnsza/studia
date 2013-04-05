@@ -1,4 +1,0 @@
-studia
-======
-
-laboratorium: inżynieria oprogramowania 
